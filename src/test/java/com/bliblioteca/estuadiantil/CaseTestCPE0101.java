@@ -38,7 +38,7 @@ public class CaseTestCPE0101 {
 	
 	@After
 	public void tearDown() {
-		//driver.quit();
+		driver.quit();
 	}
 	
 }
