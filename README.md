@@ -9,4 +9,4 @@
    - Localizar la ruta de la carpeta bin dentro de la carpeta de instalación del JDK.
    - En la ventana de edición de la variable de entorno Path, agregar una nuieva ruta e ingresar ña ruta localizada de la carpeta bin.
 4. Instalar  Eclipse IDE for Java Developers desde la pagina web https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2021-03/R/eclipse-inst-jre-win64.exe.         
-5. Clone proyecto biblioteca escolar desde git **https://github.com/Jhoselimgomez/biblioteca_escolar.git**.
+5. Clone proyecto biblioteca escolar desde git **https://github.com/Jhoselimgomez/biblioteca_escolar.git**, desde la rama Master.
